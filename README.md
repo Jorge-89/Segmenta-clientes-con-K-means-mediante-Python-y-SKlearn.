@@ -1,0 +1,1 @@
+# Segmenta-clientes-con-K-means-mediante-Python-y-SKlearn.
